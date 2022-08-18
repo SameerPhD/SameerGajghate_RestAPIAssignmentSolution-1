@@ -51,16 +51,16 @@ While implementing search funtionality there was an issue `java.lang.IllegalArgu
 
 The following video shows the functionalities of **Admin** account in **Employee Management** using Postman
 
-https://drive.google.com/file/d/1ZUd4H5jzqlqJ-jq6VYCcGu4UZrC-a0HB/view?usp=sharing
+https://user-images.githubusercontent.com/37581959/162357965-0b11fd06-420b-48c8-b1a0-f9dc00044f61.mp4
 
 
 The following video shows the functionalities of **User** account in **Employee Management** using Postman
 
-https://drive.google.com/file/d/1lPAcglocEMBmpzkEUXXUK4Wi06M52adc/view?usp=sharing
+https://user-images.githubusercontent.com/37581959/162357974-c046d787-1aab-4f6b-be41-806533aee9d0.mp4
 
 
 
-You can also view all the screenshots of the project in [EmployeeManagementScreenshots.pdf](https://github.com/shubhamshukla7794/ShubhamKShukla_RestAPIAssignmentSolution/blob/main/EmployeeManagementScreenshots.pdf "EmployeeManagementScreenshots.pdf")
+You can also view all the screenshots of the project in [Screenshot of the RestAPIAssignment.pdf]
 
 
 Assignment on RestAPI from
