@@ -36,7 +36,7 @@ The starting URL which is used is http://localhost:8080/api/employees
     > **Password** - `root`
 
 ### Account Details
-The script in [data.sql] 
+The script in [data.sql] (https://github.com/SameerPhD/SameerGajghate_RestAPIAssignmentSolution-1/blob/main/SameerGajghate_RestAPIAssignmentSolution-main/EmployeeManagement/src/main/resources/data.sql "data.sql") populates the `admin` details with the following credentials  
 - The credentials for **ADMIN** login is
     > **Username** - `admin`
     > 
@@ -60,7 +60,7 @@ https://user-images.githubusercontent.com/37581959/162357974-c046d787-1aab-4f6b-
 
 
 
-You can also view all the screenshots of the project in [EmployeeManagementScreenshots.pdf]
+You can also view all the screenshots of the project in [EmployeeManagementScreenshots.pdf] (https://github.com/SameerPhD/SameerGajghate_RestAPIAssignmentSolution-1/blob/main/SameerGajghate_RestAPIAssignmentSolution-main/Screenshot%20of%20the%20RestAPIAssignment.pdf "Screenshot of the RestAPIAssignment.pdf")
 
 
 Assignment on RestAPI from
