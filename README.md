@@ -1,6 +1,6 @@
 #  Great Learning Assignment 6 - Employee Management - Spring Boot and Spring Security
 
-This repo contains the project **Great Learning Assignment 6 - Employee Management - Spring Boot and Spring Security**. This is a Spring Boot application along with Spring Security developed for [**E&ICT IIT Roorkee: Advanced Certificate Program in Full Stack Software Development**](https://www.greatlearning.in/advanced-certification-full-stack-software-development-iit-roorkee) certification.
+This repo contains the project **Great Learning Assignment 6 - Employee Management - Spring Boot and Spring Security**. This is a Spring Boot application along with Spring Security developed for certification.
 
 
 ##  Problem Statement
@@ -36,7 +36,7 @@ The starting URL which is used is http://localhost:8080/api/employees
     > **Password** - `root`
 
 ### Account Details
-The script in [data.sql](https://github.com/shubhamshukla7794/ShubhamKShukla_RestAPIAssignmentSolution/blob/main/EmployeeManagement/src/main/resources/data.sql "data.sql") populates the `admin` details with the following credentials 
+The script in [data.sql] populates the `admin` details with the following credentials 
 - The credentials for **ADMIN** login is
     > **Username** - `admin`
     > 
@@ -44,7 +44,7 @@ The script in [data.sql](https://github.com/shubhamshukla7794/ShubhamKShukla_Res
 
 ## Issue Faced
 
-While implementing search funtionality there was an issue `java.lang.IllegalArgumentException: Parameter value [%dean%] did not match expected type [java.lang.Character (n/a)]`. I have explained the issue [here](https://github.com/shubhamshukla7794/ShubhamKShukla_RestAPIAssignmentSolution/issues/1) and how I resolved it.
+While implementing search funtionality there was an issue `java.lang.IllegalArgumentException: Parameter value [%dean%] did not match expected type [java.lang.Character (n/a)]`. I have explained the issue [here] and how I resolved it.
 
 
 ##  Application
