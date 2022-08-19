@@ -60,7 +60,7 @@ https://user-images.githubusercontent.com/37581959/162357974-c046d787-1aab-4f6b-
 
 
 
-You can also view all the screenshots of the project in [Screenshot of the RestAPIAssignment.pdf]
+You can also view all the screenshots of the project in [Screenshot of the RestAPIAssignment.pdf] (https://github.com/SameerPhD/SameerGajghate_RestAPIAssignmentSolution-1/blob/main/SameerGajghate_RestAPIAssignmentSolution-main/Screenshot%20of%20the%20RestAPIAssignment.pdf "Screenshot of the RestAPIAssignment.pdf")
 
 
 Assignment on RestAPI from
